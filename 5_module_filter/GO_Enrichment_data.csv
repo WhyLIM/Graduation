@@ -1,0 +1,271 @@
+"ID","Description","GeneNumber","group","p.adjust","Module"
+"GO:0005759","mitochondrial matrix",4,"Cellular Component",0.00371794688260963,1
+"GO:0101002","ficolin-1-rich granule",2,"Cellular Component",0.0766223269691997,1
+"GO:0030126","COPI vesicle coat",1,"Cellular Component",0.0766223269691997,1
+"GO:0030663","COPI-coated vesicle membrane",1,"Cellular Component",0.0766223269691997,1
+"GO:0005838","proteasome regulatory particle",1,"Cellular Component",0.0766223269691997,1
+"GO:0022624","proteasome accessory complex",1,"Cellular Component",0.077215480302546,1
+"GO:0030137","COPI-coated vesicle",1,"Cellular Component",0.0804698098983412,1
+"GO:0030120","vesicle coat",1,"Cellular Component",0.107399341807296,1
+"GO:0030660","Golgi-associated vesicle membrane",1,"Cellular Component",0.107399341807296,1
+"GO:0000502","proteasome complex",1,"Cellular Component",0.107399341807296,1
+"GO:0004312","fatty acid synthase activity",2,"Molecular Function",0.000759572067086067,1
+"GO:0016208","AMP binding",2,"Molecular Function",0.000759572067086067,1
+"GO:0016417","S-acyltransferase activity",2,"Molecular Function",0.00182725428537842,1
+"GO:0016747","acyltransferase activity, transferring groups other than amino-acyl groups",3,"Molecular Function",0.0026089118710302,1
+"GO:0016746","acyltransferase activity",3,"Molecular Function",0.00295786895088752,1
+"GO:0016407","acetyltransferase activity",2,"Molecular Function",0.00843096336253776,1
+"GO:0016874","ligase activity",2,"Molecular Function",0.0233063106599288,1
+"GO:0004690","cyclic nucleotide-dependent protein kinase activity",1,"Molecular Function",0.0284699718845277,1
+"GO:0008603","cAMP-dependent protein kinase regulator activity",1,"Molecular Function",0.0284699718845277,1
+"GO:0043024","ribosomal small subunit binding",1,"Molecular Function",0.0387277423912551,1
+"GO:0046394","carboxylic acid biosynthetic process",6,"Biological Process",7.30667935495016e-07,1
+"GO:0016053","organic acid biosynthetic process",6,"Biological Process",7.30667935495016e-07,1
+"GO:0006633","fatty acid biosynthetic process",5,"Biological Process",1.06947285323162e-06,1
+"GO:0006631","fatty acid metabolic process",6,"Biological Process",1.28067809260416e-06,1
+"GO:0072330","monocarboxylic acid biosynthetic process",5,"Biological Process",2.50580493480275e-06,1
+"GO:0033865","nucleoside bisphosphate metabolic process",4,"Biological Process",1.2759201846594e-05,1
+"GO:0033875","ribonucleoside bisphosphate metabolic process",4,"Biological Process",1.2759201846594e-05,1
+"GO:0034032","purine nucleoside bisphosphate metabolic process",4,"Biological Process",1.2759201846594e-05,1
+"GO:0006084","acetyl-CoA metabolic process",3,"Biological Process",1.6725503489224e-05,1
+"GO:0009150","purine ribonucleotide metabolic process",5,"Biological Process",1.84336110125899e-05,1
+"GO:0034774","secretory granule lumen",29,"Cellular Component",2.08187680502341e-28,2
+"GO:0060205","cytoplasmic vesicle lumen",29,"Cellular Component",2.08187680502341e-28,2
+"GO:0031983","vesicle lumen",29,"Cellular Component",2.08187680502341e-28,2
+"GO:1904724","tertiary granule lumen",17,"Cellular Component",4.28785359436523e-26,2
+"GO:1904813","ficolin-1-rich granule lumen",17,"Cellular Component",1.36780884160219e-19,2
+"GO:0070820","tertiary granule",17,"Cellular Component",1.53850901261144e-17,2
+"GO:0101002","ficolin-1-rich granule",17,"Cellular Component",1.05158437912141e-16,2
+"GO:0035580","specific granule lumen",9,"Cellular Component",1.20779941739874e-10,2
+"GO:0042581","specific granule",9,"Cellular Component",5.57414558760825e-07,2
+"GO:0031093","platelet alpha granule lumen",6,"Cellular Component",6.50240954427768e-06,2
+"GO:0016853","isomerase activity",15,"Molecular Function",2.14391707172119e-13,2
+"GO:0048029","monosaccharide binding",10,"Molecular Function",1.4935266567758e-10,2
+"GO:0016868","intramolecular transferase activity, phosphotransferases",6,"Molecular Function",1.52860135328824e-10,2
+"GO:0016616","oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",11,"Molecular Function",9.51757488990846e-10,2
+"GO:0030246","carbohydrate binding",14,"Molecular Function",1.74408047319672e-09,2
+"GO:0016614","oxidoreductase activity, acting on CH-OH group of donors",11,"Molecular Function",1.74408047319672e-09,2
+"GO:0005536","glucose binding",5,"Molecular Function",3.16527787540359e-08,2
+"GO:0016866","intramolecular transferase activity",6,"Molecular Function",7.57020248234324e-08,2
+"GO:0000287","magnesium ion binding",10,"Molecular Function",2.50246494350499e-06,2
+"GO:0051287","NAD binding",6,"Molecular Function",5.9443635683361e-06,2
+"GO:0016052","carbohydrate catabolic process",24,"Biological Process",2.72062035377364e-27,2
+"GO:0005996","monosaccharide metabolic process",26,"Biological Process",4.54070892824576e-25,2
+"GO:0006091","generation of precursor metabolites and energy",30,"Biological Process",4.36832925238563e-23,2
+"GO:0019318","hexose metabolic process",23,"Biological Process",1.01723965115221e-21,2
+"GO:0006090","pyruvate metabolic process",17,"Biological Process",1.53042274864425e-19,2
+"GO:0009185","ribonucleoside diphosphate metabolic process",17,"Biological Process",1.53042274864425e-19,2
+"GO:0046031","ADP metabolic process",16,"Biological Process",3.94465295384347e-19,2
+"GO:0009132","nucleoside diphosphate metabolic process",17,"Biological Process",1.90231973996054e-18,2
+"GO:0009135","purine nucleoside diphosphate metabolic process",16,"Biological Process",2.50661339359567e-18,2
+"GO:0009179","purine ribonucleoside diphosphate metabolic process",16,"Biological Process",2.50661339359567e-18,2
+"GO:0101031","chaperone complex",3,"Cellular Component",3.99035530100025e-06,4
+"GO:0120293","dynein axonemal particle",2,"Cellular Component",0.000290726625791239,4
+"GO:0097524","sperm plasma membrane",1,"Cellular Component",0.0445849582729776,4
+"GO:0044292","dendrite terminus",1,"Cellular Component",0.0445849582729776,4
+"GO:0061827","sperm head",1,"Cellular Component",0.0445849582729776,4
+"GO:0005697","telomerase holoenzyme complex",1,"Cellular Component",0.0457300563770363,4
+"GO:0071682","endocytic vesicle lumen",1,"Cellular Component",0.0457300563770363,4
+"GO:0044295","axonal growth cone",1,"Cellular Component",0.048675099075429,4
+"GO:0031526","brush border membrane",1,"Cellular Component",0.0892125681744012,4
+"GO:0016234","inclusion body",1,"Cellular Component",0.0998116372139175,4
+"GO:0031072","heat shock protein binding",5,"Molecular Function",1.57575346633088e-08,4
+"GO:0051879","Hsp90 protein binding",4,"Molecular Function",2.39304119240442e-08,4
+"GO:0051087","chaperone binding",3,"Molecular Function",0.000105835565676321,4
+"GO:0051082","unfolded protein binding",3,"Molecular Function",0.000117780185451235,4
+"GO:0070182","DNA polymerase binding",2,"Molecular Function",0.000275107704436475,4
+"GO:0030544","Hsp70 protein binding",2,"Molecular Function",0.000892772637553652,4
+"GO:0016853","isomerase activity",2,"Molecular Function",0.0102932179435283,4
+"GO:0000774","adenyl-nucleotide exchange factor activity",1,"Molecular Function",0.021577466675007,4
+"GO:1990226","histone methyltransferase binding",1,"Molecular Function",0.021577466675007,4
+"GO:0003964","RNA-directed DNA polymerase activity",1,"Molecular Function",0.021577466675007,4
+"GO:0006457","protein folding",6,"Biological Process",4.24999151391305e-09,4
+"GO:0061077","chaperone-mediated protein folding",4,"Biological Process",8.1118947767994e-07,4
+"GO:0051131","chaperone-mediated protein complex assembly",2,"Biological Process",0.00314121359741293,4
+"GO:0051085","chaperone cofactor-dependent protein refolding",2,"Biological Process",0.00417099762075358,4
+"GO:0051973","positive regulation of telomerase activity",2,"Biological Process",0.00417099762075358,4
+"GO:0051084","'de novo' posttranslational protein folding",2,"Biological Process",0.00458698285096613,4
+"GO:0006458","'de novo' protein folding",2,"Biological Process",0.00478784743804753,4
+"GO:0051972","regulation of telomerase activity",2,"Biological Process",0.00501160359816892,4
+"GO:2000573","positive regulation of DNA biosynthetic process",2,"Biological Process",0.00866694197334348,4
+"GO:0007004","telomere maintenance via telomerase",2,"Biological Process",0.00866694197334348,4
+"GO:0005925","focal adhesion",14,"Cellular Component",1.598567630183e-11,5
+"GO:0030055","cell-substrate junction",14,"Cellular Component",1.598567630183e-11,5
+"GO:0008305","integrin complex",6,"Cellular Component",3.15305229111675e-09,5
+"GO:0098636","protein complex involved in cell adhesion",6,"Cellular Component",6.20531285980004e-09,5
+"GO:0098802","plasma membrane signaling receptor complex",7,"Cellular Component",0.000145282857468449,5
+"GO:0030027","lamellipodium",5,"Cellular Component",0.00193023679017639,5
+"GO:0030175","filopodium",4,"Cellular Component",0.00193023679017639,5
+"GO:0098978","glutamatergic synapse",6,"Cellular Component",0.00193023679017639,5
+"GO:0098858","actin-based cell projection",5,"Cellular Component",0.0022613936983729,5
+"GO:0031252","cell leading edge",6,"Cellular Component",0.00475354520157649,5
+"GO:0031994","insulin-like growth factor I binding",3,"Molecular Function",0.000638542771512283,5
+"GO:0050840","extracellular matrix binding",4,"Molecular Function",0.000850227266628902,5
+"GO:0005178","integrin binding",5,"Molecular Function",0.00138407975777286,5
+"GO:0005520","insulin-like growth factor binding",3,"Molecular Function",0.00198564394362228,5
+"GO:0045296","cadherin binding",6,"Molecular Function",0.00422469213157269,5
+"GO:0004712","protein serine/threonine/tyrosine kinase activity",3,"Molecular Function",0.00422469213157269,5
+"GO:0106310","protein serine kinase activity",6,"Molecular Function",0.00422469213157269,5
+"GO:0004714","transmembrane receptor protein tyrosine kinase activity",4,"Molecular Function",0.00422469213157269,5
+"GO:0051018","protein kinase A binding",3,"Molecular Function",0.00422469213157269,5
+"GO:0044325","transmembrane transporter binding",4,"Molecular Function",0.00422469213157269,5
+"GO:0007229","integrin-mediated signaling pathway",6,"Biological Process",0.000260629062610719,5
+"GO:0032434","regulation of proteasomal ubiquitin-dependent protein catabolic process",6,"Biological Process",0.00049438767125257,5
+"GO:2000058","regulation of ubiquitin-dependent protein catabolic process",6,"Biological Process",0.00107498575214281,5
+"GO:0042176","regulation of protein catabolic process",8,"Biological Process",0.00108123364291056,5
+"GO:0061136","regulation of proteasomal protein catabolic process",6,"Biological Process",0.00120743508528641,5
+"GO:0048308","organelle inheritance",3,"Biological Process",0.00120743508528641,5
+"GO:0048313","Golgi inheritance",3,"Biological Process",0.00120743508528641,5
+"GO:0031929","TOR signaling",5,"Biological Process",0.00179557599255759,5
+"GO:0032386","regulation of intracellular transport",7,"Biological Process",0.00179557599255759,5
+"GO:1903050","regulation of proteolysis involved in cellular protein catabolic process",6,"Biological Process",0.00179557599255759,5
+"GO:0045121","membrane raft",14,"Cellular Component",6.184897940407e-09,6
+"GO:0098857","membrane microdomain",14,"Cellular Component",6.184897940407e-09,6
+"GO:0005911","cell-cell junction",13,"Cellular Component",5.04800110286175e-06,6
+"GO:0098562","cytoplasmic side of membrane",9,"Cellular Component",5.04800110286175e-06,6
+"GO:0005884","actin filament",7,"Cellular Component",1.5955348288252e-05,6
+"GO:0009898","cytoplasmic side of plasma membrane",8,"Cellular Component",1.5955348288252e-05,6
+"GO:0005925","focal adhesion",11,"Cellular Component",2.59956038245529e-05,6
+"GO:0030055","cell-substrate junction",11,"Cellular Component",2.67635310746997e-05,6
+"GO:0031234","extrinsic component of cytoplasmic side of plasma membrane",6,"Cellular Component",7.81639589911427e-05,6
+"GO:0019897","extrinsic component of plasma membrane",7,"Cellular Component",0.000137590413968146,6
+"GO:0051219","phosphoprotein binding",11,"Molecular Function",2.49220799086566e-11,6
+"GO:0001784","phosphotyrosine residue binding",9,"Molecular Function",2.49220799086566e-11,6
+"GO:0045309","protein phosphorylated amino acid binding",9,"Molecular Function",1.70473889913873e-10,6
+"GO:0004713","protein tyrosine kinase activity",10,"Molecular Function",2.06595202935574e-08,6
+"GO:0004715","non-membrane spanning protein tyrosine kinase activity",7,"Molecular Function",4.28405377547283e-08,6
+"GO:0004714","transmembrane receptor protein tyrosine kinase activity",9,"Molecular Function",1.26756300401036e-07,6
+"GO:0019199","transmembrane receptor protein kinase activity",9,"Molecular Function",3.82601932581516e-07,6
+"GO:0043274","phospholipase binding",5,"Molecular Function",1.71800535576887e-06,6
+"GO:0097110","scaffold protein binding",6,"Molecular Function",1.23651025150687e-05,6
+"GO:0019902","phosphatase binding",8,"Molecular Function",5.12450276748835e-05,6
+"GO:0018108","peptidyl-tyrosine phosphorylation",20,"Biological Process",5.25896365239428e-14,6
+"GO:0018212","peptidyl-tyrosine modification",20,"Biological Process",5.25896365239428e-14,6
+"GO:0043254","regulation of protein-containing complex assembly",19,"Biological Process",5.70687962820417e-12,6
+"GO:0002429","immune response-activating cell surface receptor signaling pathway",16,"Biological Process",2.38329261582356e-11,6
+"GO:0002757","immune response-activating signal transduction",16,"Biological Process",2.38329261582356e-11,6
+"GO:0007159","leukocyte cell-cell adhesion",17,"Biological Process",4.54411728575966e-11,6
+"GO:0045785","positive regulation of cell adhesion",18,"Biological Process",4.54411728575966e-11,6
+"GO:0002768","immune response-regulating cell surface receptor signaling pathway",16,"Biological Process",4.54411728575966e-11,6
+"GO:0002253","activation of immune response",17,"Biological Process",4.54411728575966e-11,6
+"GO:0022407","regulation of cell-cell adhesion",18,"Biological Process",5.59575924762446e-11,6
+"GO:0016281","eukaryotic translation initiation factor 4F complex",2,"Cellular Component",0.00562311484912876,8
+"GO:0101002","ficolin-1-rich granule",4,"Cellular Component",0.00562311484912876,8
+"GO:1904813","ficolin-1-rich granule lumen",3,"Cellular Component",0.0155948707983073,8
+"GO:0034774","secretory granule lumen",4,"Cellular Component",0.0155948707983073,8
+"GO:0060205","cytoplasmic vesicle lumen",4,"Cellular Component",0.0155948707983073,8
+"GO:0031983","vesicle lumen",4,"Cellular Component",0.0155948707983073,8
+"GO:0005766","primary lysosome",2,"Cellular Component",0.142687919533351,8
+"GO:0042582","azurophil granule",2,"Cellular Component",0.142687919533351,8
+"GO:0070820","tertiary granule",2,"Cellular Component",0.142687919533351,8
+"GO:0005775","vacuolar lumen",2,"Cellular Component",0.143064597003163,8
+"GO:0016879","ligase activity, forming carbon-nitrogen bonds",8,"Molecular Function",1.34058002243703e-12,8
+"GO:0016874","ligase activity",9,"Molecular Function",4.36899463356795e-10,8
+"GO:0016814","hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines",4,"Molecular Function",1.21589344812328e-05,8
+"GO:0016829","lyase activity",6,"Molecular Function",2.16041979763986e-05,8
+"GO:0008253","5'-nucleotidase activity",3,"Molecular Function",2.16041979763986e-05,8
+"GO:0008252","nucleotidase activity",3,"Molecular Function",2.85694813067856e-05,8
+"GO:0016646","oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor",3,"Molecular Function",5.1888175402965e-05,8
+"GO:0016645","oxidoreductase activity, acting on the CH-NH group of donors",3,"Molecular Function",0.000169053417548361,8
+"GO:0090079","translation regulator activity, nucleic acid binding",4,"Molecular Function",0.000335618936636775,8
+"GO:0016741","transferase activity, transferring one-carbon groups",5,"Molecular Function",0.000362721853508213,8
+"GO:0009167","purine ribonucleoside monophosphate metabolic process",15,"Biological Process",4.57926962663572e-30,8
+"GO:0009126","purine nucleoside monophosphate metabolic process",15,"Biological Process",8.27511638154204e-30,8
+"GO:0009161","ribonucleoside monophosphate metabolic process",15,"Biological Process",6.55683195530876e-28,8
+"GO:0009168","purine ribonucleoside monophosphate biosynthetic process",12,"Biological Process",6.55683195530876e-28,8
+"GO:0009127","purine nucleoside monophosphate biosynthetic process",12,"Biological Process",3.05321408236778e-27,8
+"GO:0009123","nucleoside monophosphate metabolic process",15,"Biological Process",3.30556922376043e-26,8
+"GO:0009156","ribonucleoside monophosphate biosynthetic process",12,"Biological Process",2.59852524996627e-24,8
+"GO:0009124","nucleoside monophosphate biosynthetic process",12,"Biological Process",7.01717084433644e-23,8
+"GO:0006188","IMP biosynthetic process",9,"Biological Process",1.31104528799554e-22,8
+"GO:0046040","IMP metabolic process",10,"Biological Process",1.31104528799554e-22,8
+"GO:0045121","membrane raft",6,"Cellular Component",0.000245955038409142,11
+"GO:0098857","membrane microdomain",6,"Cellular Component",0.000245955038409142,11
+"GO:0035631","CD40 receptor complex",2,"Cellular Component",0.00310814603182962,11
+"GO:0005741","mitochondrial outer membrane",4,"Cellular Component",0.00396577480911406,11
+"GO:0031968","organelle outer membrane",4,"Cellular Component",0.00424247988002362,11
+"GO:0019867","outer membrane",4,"Cellular Component",0.00424247988002362,11
+"GO:1902554","serine/threonine protein kinase complex",2,"Cellular Component",0.0739355066976491,11
+"GO:1902911","protein kinase complex",2,"Cellular Component",0.0898995357841182,11
+"GO:0032797","SMN complex",1,"Cellular Component",0.127595530204909,11
+"GO:0043220","Schmidt-Lanterman incisure",1,"Cellular Component",0.127595530204909,11
+"GO:0097153","cysteine-type endopeptidase activity involved in apoptotic process",5,"Molecular Function",1.76477019000215e-09,11
+"GO:0032813","tumor necrosis factor receptor superfamily binding",6,"Molecular Function",4.76697628749738e-09,11
+"GO:0005126","cytokine receptor binding",8,"Molecular Function",1.50534883915409e-07,11
+"GO:0008234","cysteine-type peptidase activity",7,"Molecular Function",2.70711005322432e-07,11
+"GO:0004197","cysteine-type endopeptidase activity",6,"Molecular Function",4.41713113447044e-07,11
+"GO:0005123","death receptor binding",4,"Molecular Function",4.64727545350723e-07,11
+"GO:0031625","ubiquitin protein ligase binding",7,"Molecular Function",3.3147575260143e-06,11
+"GO:0044389","ubiquitin-like protein ligase binding",7,"Molecular Function",4.32158967595404e-06,11
+"GO:0043028","cysteine-type endopeptidase regulator activity involved in apoptotic process",4,"Molecular Function",4.32158967595404e-06,11
+"GO:0097199","cysteine-type endopeptidase activity involved in apoptotic signaling pathway",3,"Molecular Function",4.32158967595404e-06,11
+"GO:0043281","regulation of cysteine-type endopeptidase activity involved in apoptotic process",9,"Biological Process",1.0903446028402e-08,11
+"GO:2000116","regulation of cysteine-type endopeptidase activity",9,"Biological Process",1.56120573928972e-08,11
+"GO:0043122","regulation of I-kappaB kinase/NF-kappaB signaling",9,"Biological Process",1.74609585922327e-08,11
+"GO:0007249","I-kappaB kinase/NF-kappaB signaling",9,"Biological Process",3.84450497354488e-08,11
+"GO:0090200","positive regulation of release of cytochrome c from mitochondria",5,"Biological Process",9.89606657032506e-08,11
+"GO:0043280","positive regulation of cysteine-type endopeptidase activity involved in apoptotic process",7,"Biological Process",1.0090549506262e-07,11
+"GO:0010822","positive regulation of mitochondrion organization",6,"Biological Process",1.50025610546868e-07,11
+"GO:0010821","regulation of mitochondrion organization",7,"Biological Process",1.58997277043577e-07,11
+"GO:0006919","activation of cysteine-type endopeptidase activity involved in apoptotic process",6,"Biological Process",1.58997277043577e-07,11
+"GO:2001056","positive regulation of cysteine-type endopeptidase activity",7,"Biological Process",1.58997277043577e-07,11
+"GO:0043679","axon terminus",2,"Cellular Component",0.0151734876684386,16
+"GO:0005759","mitochondrial matrix",3,"Cellular Component",0.0151734876684386,16
+"GO:0044306","neuron projection terminus",2,"Cellular Component",0.0151734876684386,16
+"GO:0150034","distal axon",2,"Cellular Component",0.0471382412795289,16
+"GO:0097386","glial cell projection",1,"Cellular Component",0.0499852258766771,16
+"GO:0009295","nucleoid",1,"Cellular Component",0.0499852258766771,16
+"GO:0042645","mitochondrial nucleoid",1,"Cellular Component",0.0499852258766771,16
+"GO:0043209","myelin sheath",1,"Cellular Component",0.0499852258766771,16
+"GO:0043195","terminal bouton",1,"Cellular Component",0.0499852258766771,16
+"GO:0005743","mitochondrial inner membrane",2,"Cellular Component",0.0499852258766771,16
+"GO:0016879","ligase activity, forming carbon-nitrogen bonds",5,"Molecular Function",4.07258557395876e-09,16
+"GO:0016595","glutamate binding",3,"Molecular Function",4.91152569476316e-07,16
+"GO:0016597","amino acid binding",4,"Molecular Function",4.91152569476316e-07,16
+"GO:0016874","ligase activity",5,"Molecular Function",5.49158870916429e-07,16
+"GO:0043177","organic acid binding",4,"Molecular Function",1.39924049391089e-05,16
+"GO:0031406","carboxylic acid binding",4,"Molecular Function",3.35549941710782e-05,16
+"GO:0016884","carbon-nitrogen ligase activity, with glutamine as amido-N-donor",2,"Molecular Function",0.000132938274107815,16
+"GO:0016810","hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",3,"Molecular Function",0.000428845269478552,16
+"GO:0016881","acid-amino acid ligase activity",2,"Molecular Function",0.000528461036085286,16
+"GO:0008526","phosphatidylinositol transfer activity",1,"Molecular Function",0.028778440553078,16
+"GO:0009064","glutamine family amino acid metabolic process",8,"Biological Process",1.02636460022415e-14,16
+"GO:0006536","glutamate metabolic process",6,"Biological Process",2.84708187251795e-12,16
+"GO:1901605","alpha-amino acid metabolic process",8,"Biological Process",6.39682485603157e-12,16
+"GO:0006520","cellular amino acid metabolic process",8,"Biological Process",9.99651126638232e-11,16
+"GO:1901607","alpha-amino acid biosynthetic process",6,"Biological Process",1.11463751160629e-10,16
+"GO:0008652","cellular amino acid biosynthetic process",6,"Biological Process",1.85120177468911e-10,16
+"GO:0043648","dicarboxylic acid metabolic process",6,"Biological Process",6.69154910659344e-10,16
+"GO:0009084","glutamine family amino acid biosynthetic process",4,"Biological Process",9.01470715923603e-09,16
+"GO:0046394","carboxylic acid biosynthetic process",7,"Biological Process",9.01470715923603e-09,16
+"GO:0016053","organic acid biosynthetic process",7,"Biological Process",9.01470715923603e-09,16
+"GO:0005834","heterotrimeric G-protein complex",5,"Cellular Component",1.44826404611833e-08,17
+"GO:1905360","GTPase complex",5,"Cellular Component",1.44826404611833e-08,17
+"GO:0009898","cytoplasmic side of plasma membrane",6,"Cellular Component",9.03029515514012e-07,17
+"GO:0098562","cytoplasmic side of membrane",6,"Cellular Component",1.51925926293825e-06,17
+"GO:0031234","extrinsic component of cytoplasmic side of plasma membrane",5,"Cellular Component",1.5707490570564e-06,17
+"GO:0019897","extrinsic component of plasma membrane",5,"Cellular Component",1.96553905672163e-05,17
+"GO:0019898","extrinsic component of membrane",5,"Cellular Component",0.000276626557570378,17
+"GO:0031091","platelet alpha granule",3,"Cellular Component",0.00169124232318443,17
+"GO:0031093","platelet alpha granule lumen",2,"Cellular Component",0.0267598937107481,17
+"GO:0016529","sarcoplasmic reticulum",2,"Cellular Component",0.0267598937107481,17
+"GO:0001664","G protein-coupled receptor binding",7,"Molecular Function",3.7762283107037e-06,17
+"GO:0031683","G-protein beta/gamma-subunit complex binding",3,"Molecular Function",8.89361006074225e-05,17
+"GO:0045236","CXCR chemokine receptor binding",2,"Molecular Function",0.00680633776701325,17
+"GO:0031681","G-protein beta-subunit binding",2,"Molecular Function",0.00680633776701325,17
+"GO:0003924","GTPase activity",4,"Molecular Function",0.0117668697999046,17
+"GO:0008528","G protein-coupled peptide receptor activity",3,"Molecular Function",0.0117668697999046,17
+"GO:0001653","peptide receptor activity",3,"Molecular Function",0.0117668697999046,17
+"GO:0008009","chemokine activity",2,"Molecular Function",0.0206255150383544,17
+"GO:0017046","peptide hormone binding",2,"Molecular Function",0.0206274014810674,17
+"GO:0042379","chemokine receptor binding",2,"Molecular Function",0.0352707767602959,17
+"GO:0007188","adenylate cyclase-modulating G protein-coupled receptor signaling pathway",10,"Biological Process",2.69683639632194e-11,17
+"GO:0007189","adenylate cyclase-activating G protein-coupled receptor signaling pathway",6,"Biological Process",4.41757564915369e-06,17
+"GO:0006816","calcium ion transport",6,"Biological Process",0.00149937406571473,17
+"GO:1990778","protein localization to cell periphery",5,"Biological Process",0.00573688411247268,17
+"GO:0050805","negative regulation of synaptic transmission",3,"Biological Process",0.00907983666735933,17
+"GO:0007213","G protein-coupled acetylcholine receptor signaling pathway",2,"Biological Process",0.0180099596832211,17
+"GO:0007603","phototransduction, visible light",2,"Biological Process",0.0180099596832211,17
+"GO:0010744","positive regulation of macrophage derived foam cell differentiation",2,"Biological Process",0.0180099596832211,17
+"GO:0072659","protein localization to plasma membrane",4,"Biological Process",0.0219749787069382,17
+"GO:0070588","calcium ion transmembrane transport",4,"Biological Process",0.02760443887341,17

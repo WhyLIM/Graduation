@@ -1,0 +1,242 @@
+DrugID,GeneName,label,module,DrugName,Indication
+D00QKL,AKR1B1,D,2,T2c-003,Diabetic neuropathy [ICD-11: 8C0Z] Phase 1/2
+D02GRR,NT5E,D,8,Oleclumab,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Phase 1
+D02ZKR,PNP,D,2,BCX-3408,Autoimmune diabetes [ICD-11: 5A10] Phase 2
+D02ZKR,PNP,D,2,BCX-3408,Gout [ICD-11: FA25] Phase 2
+D02ZKR,PNP,D,2,BCX-3408,Plaque psoriasis [ICD-11: EA90.0] Phase 2
+D03KOZ,AKR1B1,D,2,Epalrestat,Pain [ICD-11: MG30-MG3Z] Investigative
+D03KOZ,AKR1B1,D,2,Epalrestat,Diabetic neuropathy [ICD-11: 8C0Z] Approved
+D03UIF,LTA4H,D,2,SA-6541,Inflammation [ICD-11: 1A00-CA43.1] Investigative
+D04BFU,AKR1B1,D,2,LIDORESTAT,Diabetic complication [ICD-11: 5A2Y] Phase 2
+D04PBH,AKR1B1,D,2,CONTIGOSIDE B,Thrombosis [ICD-11: DB61-GB90] Phase 2/3
+D04PWT,MMP9,D,2,DP-b99,Stroke [ICD-11: 8B20] Phase 3
+D05JCG,G6PD,D,2,CBF-BS2,Rheumatoid arthritis [ICD-11: FA20] Discontinued in Phase 2
+D05JEG,GAA,D,8,BMN-701,Type 2 glycogen storage disease [ICD-11: 5C51.3] Phase 3
+D05JEG,GAA,D,8,BMN-701,Pompe disease [ICD-11: 5C51.3] Phase 3
+D05QIS,IMPDH1,D,8,VX-944,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Phase 2
+D05UPB,PNP,D,2,CI-972,Rheumatoid arthritis [ICD-11: FA20] Discontinued in Phase 1
+D05VEP,MMP9,D,2,DX-2802,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Preclinical
+D06EDT,AKR1B1,D,2,ZOPOLRESTAT,Diabetic complication [ICD-11: 5A2Y] Discontinued in Phase 2
+D06KSV,GAPDH,D,2,Omigapil,Muscular dystrophy [ICD-11: 8C70] Phase 1
+D06KSV,GAPDH,D,2,Omigapil,Lateral sclerosis [ICD-11: 8B61] Phase 2
+D06QBX,HK2,D,2,VDA-1102 topical ointment,Actinic keratosis [ICD-11: EK90.0] Phase 2
+D07DIX,AKR1B1,D,2,ALO-1567,Glaucoma/ocular hypertension [ICD-11: 9C61] Phase 1
+D07QCE,PPAT,D,8,Azathioprine,Organ transplant rejection [ICD-11: NE84] Approved
+D07URD,GLA,D,2,PRX-102,Fabry disease [ICD-11: 5C56.01] Phase 1/2
+D07VNH,LTA4H,D,2,Acebilustat,Chronic blistering skin disorder [ICD-11: ME63.3] Phase 1
+D08VMO,AKR1B1,D,2,JTT-811,Diabetic complication [ICD-11: 5A2Y] Discontinued in Phase 2
+D08VRX,PGD,D,2,GHRP-2,Growth hormone deficiency [ICD-11: 5A61.3] Approved
+D09BHF,AKR1B1,D,2,WF-2421,Diabetic complication [ICD-11: 5A2Y] Terminated
+D09EFC,PKM,D,2,CAP-232,Pain [ICD-11: MG30-MG3Z] Phase 2
+D09EFC,PKM,D,2,CAP-232,Renal cell carcinoma [ICD-11: 2C90] Phase 2a
+D09XUB,IMPDH1,D,8,Viramidine,Hepatitis C virus infection [ICD-11: 1E51.1] Phase 3
+D0A8LP,GART,D,8,AG2034,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Phase 1
+D0B0GC,AKR1B1,D,2,E-0722,Diabetic cataract [ICD-11: 9B10.21] Terminated
+D0C6RM,IDH1,D,2,BAY1436032,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Phase 1
+D0C6RM,IDH1,D,2,BAY1436032,Acute myeloid leukaemia [ICD-11: 2A60] Phase 1
+D0D8EY,LTF,D,2,HLF 1-11,Bacterial infection [ICD-11: 1A00-1C4Z] Phase 1/2
+D0E0FY,AKR1B1,D,2,CTL-102-GDEPT,Head and neck cancer [ICD-11: 2D42] Discontinued in Phase 2
+D0E6LC,AKR1B1,D,2,SPR-210,Diabetic complication [ICD-11: 5A2Y] Terminated
+D0G5AG,IMPDH1,D,8,Mizoribine,Transplant rejection [ICD-11: NE84] Approved
+D0H2MO,CAMP,D,2,Colforsin daropate hci,Asthma [ICD-11: CA23] Approved
+D0H7XJ,AKR1C3,D,2,ASP-9521,Prostate cancer [ICD-11: 2C82.0] Phase 1/2
+D0I5OR,CDA,D,2,Tetrahydrouridine,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Phase 2
+D0I8KA,MMP9,D,2,BLZ-100,Glioma [ICD-11: 2A00.0] Phase 1/2
+D0I8KA,MMP9,D,2,BLZ-100,Malignant primary brain tumour [ICD-11: 2A00.0] Phase 1
+D0IM6O,LTF,D,2,Talactoferrin,Diabetic foot ulcer [ICD-11: BD54] Phase 3
+D0IZ1A,GART,D,8,LY309887,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Phase 1
+D0J6JZ,AKR1B1,D,2,MINALRESTAT,Diabetic complication [ICD-11: 5A2Y] Discontinued in Phase 3
+D0J9IH,GART,D,8,PELITREXOL,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Phase 2
+D0K8TO,FKBP1A,D,2,AP1903,Transplant rejection [ICD-11: NE84] Phase 1/2
+D0M9RE,AKR1B1,D,2,ARI-809,Diabetic complication [ICD-11: 5A2Y] Preclinical
+D0O2ET,AKR1B1,D,2,AD-5467,Diabetic complication [ICD-11: 5A2Y] Discontinued in Phase 2
+D0O5OF,FKBP1A,D,2,SDZ-281-240,Pruritus [ICD-11: EC90] Phase 2
+D0O7DU,MMP9,D,2,CT-1746,Colorectal cancer [ICD-11: 2B91.Z] Terminated
+D0P7SO,AKR1B1,D,2,ADMVA,Diabetic complication [ICD-11: 5A2Y] Phase 2
+D0Q1UB,GAA,D,8,GZ402666,Pompe disease [ICD-11: 5C51.3] Phase 1
+D0Q1UB,GAA,D,8,GZ402666,Type 2 glycogen storage disease [ICD-11: 5C51.3] Phase 1
+D0Q7AW,AKR1B1,D,2,IMIRESTAT,Diabetic complication [ICD-11: 5A2Y] Discontinued in Phase 3
+D0Q7QY,AKR1B1,D,2,SSR-125047,Schizophrenia [ICD-11: 6A20] Phase 1
+D0Q7QY,AKR1B1,D,2,SSR-125047,Diabetic cataract [ICD-11: 9B10.21] Withdrawn from market
+D0R3OP,IDH1,D,2,AG-120,Acute myeloid leukaemia [ICD-11: 2A60] Phase 2
+D0R3OP,IDH1,D,2,AG-120,Haematological malignancy [ICD-11: 2B33.Y] Phase 1
+D0R3OQ,AKR1B1,D,2,BNV-222,Diabetic neuropathy [ICD-11: 8C0Z] Investigative
+D0RA5Q,LTA4H,D,2,Bestatin,Acute myeloid leukaemia [ICD-11: 2A60] Approved
+D0RZ0N,AKR1B1,D,2,FR-62765,Diabetic complication [ICD-11: 5A2Y] Terminated
+D0RZ9V,IDH1,D,2,IDH305,Advanced malignancy [ICD-11: 2A00-2F9Z] Phase 1
+D0S5RE,NT5E,D,8,CPI-006,Advanced cancer [ICD-11: 2A00-2F9Z] Phase 1
+D0S7DV,IMPDH1,D,8,Tiazofurin,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Approved
+D0U9TM,AKR1B1,D,2,Ponalrestat,Gout [ICD-11: FA25] Discontinued in Phase 3
+D0U9TM,AKR1B1,D,2,Ponalrestat,Diabetic complication [ICD-11: 5A2Y] Investigative
+D0V4UO,AKR1B1,D,2,M-16209,Diabetic complication [ICD-11: 5A2Y] Phase 2
+D0VW0I,CTPS1,D,8,Cyclopentenylcytosine,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Phase 1
+D0WL0Q,MMP9,D,2,GS-5745,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Phase 2
+D0WL0Q,MMP9,D,2,GS-5745,Gastric adenocarcinoma [ICD-11: 2B72] Phase 3
+D0WL0Q,MMP9,D,2,GS-5745,Crohn disease [ICD-11: DD70] Phase 2
+D0WL0Q,MMP9,D,2,GS-5745,Rheumatoid arthritis [ICD-11: FA20] Phase 1
+D0WL0Q,MMP9,D,2,GS-5745,Ulcerative colitis [ICD-11: DD71] Phase 3
+D0WL0Q,MMP9,D,2,GS-5745,Ulcerative colitis [ICD-11: DD71] Phase 2
+D0Z5IU,AKR1B1,D,2,Sulindac,Rheumatoid arthritis [ICD-11: FA20] Approved
+D0Z6SP,MMP9,D,2,Andecaliximab,Solid tumour/cancer [ICD-11: 2A00-2F9Z] Phase 1
+D0Z6SP,MMP9,D,2,Andecaliximab,Gastric adenocarcinoma [ICD-11: 2B72] Phase 3
+DB00116,MTHFD1,D,8,Tetrahydrofolic acid,"For nutritional supplementation, also for treating dietary shortage or imbalance."
+DB00130,CTPS1,D,8,L-Glutamine,"Used for nutritional supplementation, also for treating dietary shortage or imbalance."
+DB00173,APRT,D,8,Adenine,"For nutritional supplementation, also for treating dietary shortage or imbalance"
+DB00688,IMPDH1,D,8,Mycophenolate mofetil,"Mycophenolate mofetil is indicated for the prophylaxis of organ rejection in patients undergoing allogeneic renal, hepatic, or cardiac transplants. It should be used with cyclosporine and corticosteroids.[L7363] Mycophenolate mofetil may also be used off-label as a second-line treatment for autoimmune hepatitis that has not responded adequately to first-line therapy.[A180814] Other off-label uses of this drug include lupus-associated nephritis and dermatitis in children.[A180817]"
+DB00789,PGD,D,2,Gadopentetic acid,"For use with magnetic resonance imaging (MRI) in adults, and pediatric patients (2 years of age and older) to visualize lesions with abnormal vascularity in the brain (intracranial lesions), spine and associated tissues as well as lesions with abnormal vascularity in the head and neck. Also used to facilitate the visualization of lesions with abnormal vascularity in the body (excluding the heart)."
+DB00811,IMPDH1,D,8,Ribavirin,Indicated for the treatment of chronic Hepatitis C virus (HCV) infection in combination with other antiviral agents with the intent to cure or achieve a sustained virologic response (SVR). Typically added to improve SVR and reduce relapse rates [A19644].
+DB00864,FKBP1A,D,2,Tacrolimus,"For use after allogenic organ transplant to reduce the activity of the patient's immune system and so the risk of organ rejection. It was given FDA approval in 1994 for use in liver transplantation. Since then, this indication has expanded to kidney, heart, small bowel, pancreas, lung, trachea, skin, cornea, and limb transplants. It has also been used in a topical preparation in the treatment of severe atopic dermatitis."
+DB01024,IMPDH1,D,8,Mycophenolic acid,"For the prophylaxis of organ rejection in patients receiving allogeneic renal transplants, administered in combination with cyclosporine and corticosteroids."
+DB01033,HPRT1,D,8,Mercaptopurine,For remission induction and maintenance therapy of acute lymphatic leukemia.
+DB01055,SHMT1,D,8,Mimosine,NA
+DB01250,TPMT,D,8,Olsalazine,For the treatment of Inflammatory Bowel Disease and Ulcerative Colitis.
+DB01667,PNP,D,2,8-azaguanine,NA
+DB01689,AKR1B1,D,2,Inhibitor Idd 384,NA
+DB01695,TPI1,D,2,N-Hydroxy-4-Phosphono-Butanamide,NA
+DB01698,AKR1C3,D,2,Rutin,NA
+DB01700,ATIC,D,8,AICA ribonucleotide,NA
+DB01712,FKBP1A,D,2,"(3R)-4-(p-toluenesulfonyl)-1,4-thiazane-3-carboxylicacid-L-phenylalanine ethyl ester",NA
+DB01723,FKBP1A,D,2,"{3-[3-(3,4-Dimethoxy-Phenyl)-1-(1-{1-[2-(3,4,5-Trimethoxy-Phenyl)-Butyryl]-Piperidin-2yl}-Vinyloxy)-Propyl]-Phenoxy}-Acetic Acid",NA
+DB01733,PKM,D,2,L-Phospholactate,NA
+DB01811,LTF,D,2,"3h-Indole-5,6-Diol",NA
+DB01949,MMP9,D,2,"2-Amino-N,3,3-Trimethylbutanamide",NA
+DB01951,FKBP1A,D,2,Gpi-1046,NA
+DB02020,AKR1B1,D,2,Alrestatin,NA
+DB02021,AKR1B1,D,2,Fidarestat,NA
+DB02056,AKR1C3,D,2,Prostaglandin D2,NA
+DB02067,SHMT1,D,8,Triglu-5-formyl-tetrahydrofolate,NA
+DB02076,PGD,D,2,6-phospho-D-gluconic acid,NA
+DB02093,GPI,D,2,5-phospho-D-arabinohydroxamic acid,NA
+DB02101,AKR1B1,D,2,"(S,R)-fidarestat",NA
+DB02132,AKR1B1,D,2,Zenarestat,Investigated for use/treatment in neuropathy (diabetic).
+DB02144,PITPNA,D,2,"1,2-diacyl-sn-glycero-3-phosphoinositol",NA
+DB02162,HINT1,D,2,5'-O-(N-Ethyl-Sulfamoyl)Adenosine,NA
+DB02183,HINT1,D,2,Adenosine-5'-ditungstate,NA
+DB02222,PNP,D,2,"2,6-Diamino-(S)-9-[2-(Phosphonomethoxy)Propyl]Purine",NA
+DB02230,PNP,D,2,Immucillin-G,NA
+DB02309,ATIC,D,8,5-monophosphate-9-beta-D-ribofuranosyl xanthine,NA
+DB02311,FKBP1A,D,2,Methyl Methylsulfinylmethyl Sulfide,NA
+DB02345,CAMP,D,2,Selenocysteine,NA
+DB02358,MTHFD1,D,8,LY374571,NA
+DB02383,AKR1B1,D,2,Tolrestat,For the pharmacological control of certain diabetic complications.
+DB02391,PNP,D,2,"2-Amino-7-[2-(2-Hydroxy-1-Hydroxymethyl-Ethylamino)-Ethyl]-1,7-Dihydro-Purin-6-One",NA
+DB02445,GNPDA1,D,2,2-Deoxy-2-Amino Glucitol-6-Phosphate,NA
+DB02483,LDHA,D,2,Etheno-NAD,NA
+DB02512,ALDOA,D,2,"1,6-Fructose Diphosphate (Linear Form)",NA
+DB02518,AKR1B1,D,2,N-Acetylalanine,NA
+DB02548,GPI,D,2,D-glucitol 6-phosphate,NA
+DB02568,PNP,D,2,Peldesine,NA
+DB02712,AKR1B1,D,2,Sorbinil,NA
+DB02759,LYZ,D,2,4-methyl-umbelliferyl-N-acetyl-chitobiose,NA
+DB02796,PNP,D,2,9-deazainosine,NA
+DB02800,SHMT1,D,8,"5-hydroxymethyl-5,6-dihydrofolic acid",NA
+DB02834,AKR1B1,D,2,IDD552,NA
+DB02888,FKBP1A,D,2,FKB-001,NA
+DB03006,LYZ,D,2,Arsanilic acid,NA
+DB03026,TPI1,D,2,Phosphoglycolohydroxamic Acid,NA
+DB03040,LTF,D,2,Nitrilotriacetic acid,NA
+DB03070,IMPDH2,D,8,Selenazole-4-carboxyamide-adenine dinucleotide,NA
+DB03085,G6PD,D,2,Glycolic acid,NA
+DB03120,LYZ,D,2,p-Toluenesulfonic acid,NA
+DB03130,GLO1,D,8,S-P-Nitrobenzyloxycarbonylglutathione,NA
+DB03135,TPI1,D,2,[2(Formyl-Hydroxy-Amino)-Ethyl]-Phosphonic Acid,NA
+DB03153,HPRT1,D,8,"3H-pyrazolo[4,3-d]pyrimidin-7-ol",NA
+DB03175,LYZ,D,2,Propyl alcohol,NA
+DB03185,CDA,D,2,"1-Beta-Ribofuranosyl-1,3-Diazepinone",NA
+DB03189,LYZ,D,2,Cu-Cyclam,NA
+DB03314,TPI1,D,2,5-fluorotryptophan,NA
+DB03330,GLO1,D,8,S-(N-hydroxy-N-iodophenylcarbamoyl)glutathione,NA
+DB03379,TPI1,D,2,2-Carboxyethylphosphonic Acid,NA
+DB03424,LTA4H,D,2,Ubenimex,"An adjuvant therapy used  for acute and chronic myelonous leukemia, lung cancer and nasopharyngeal cancer. It is also used to treat hypercholesterolaemia."
+DB03442,ATIC,D,8,Acid yellow 54 free acid,NA
+DB03485,LTF,D,2,alpha-D-Fucopyranose,NA
+DB03486,CANT1,D,8,Phosphomethylphosphonic acid guanosyl ester,NA
+DB03487,LYZ,D,2,(S)-Aspartimide,NA
+DB03506,APRT,D,8,9-Deazaadenine,NA
+DB03546,GART,D,8,"N-({4-[(1R)-4-[(2R,4S,5S)-2,4-diamino-6-oxohexahydropyrimidin-5-yl]-1-(2,2,2-trifluoro-1,1-dihydroxyethyl)butyl]phenyl}carbonyl)-L-glutamic acid",NA
+DB03551,PNP,D,2,"(3R,4R)-3-Hydroxy-4-(hydroxymethyl)-1-[(4-oxo-4,4a,5,7a-tetrahydro-3H-pyrrolo[3,2-d]pyrimidin-7-yl)methyl]pyrrolidinium",NA
+DB03609,PNP,D,2,3'-deoxyguanosine,NA
+DB03621,FKBP1A,D,2,"L-709,587",NA
+DB03683,MMP9,D,2,2-{[Formyl(Hydroxy)Amino]Methyl}-4-Methylpentanoic Acid,NA
+DB03690,PITPNA,D,2,"(Z,Z)-4-Hydroxy-N,N,N-Trimethyl-10-Oxo-7-[(1-Oxo-9-Octadecenyl)Oxy]-3,5,9-Trioxa-4-Phosphaheptacos-18-En-1-Aminium-4-Oxide",NA
+DB03861,HEXB,D,2,"(2R,3R,4S,5R)-2-acetamido-3,4-dihydroxy-5-hydroxymethyl-piperidine",NA
+DB03881,PNP,D,2,"(2S,3R,4S,5S)-3,4-Dihydroxy-2-[(methylsulfanyl)methyl]-5-(4-oxo-4,5-dihydro-1H-pyrrolo[3,2-d]pyrimidin-7-yl)pyrrolidinium",NA
+DB03893,GAPDH,D,2,Thionicotinamide-Adenine-Dinucleotide,NA
+DB03948,IMPDH1,D,8,"6-Chloropurine Riboside, 5'-Monophosphate",NA
+DB03951,GNPDA1,D,2,N-acetyl-D-glucosamine-6-phosphate,NA
+DB03962,PGD,D,2,Nicotinamide 8-bromo-adenine dinucleotide phosphate,NA
+DB03967,LYZ,D,2,Dodecyl sulfate,NA
+DB04012,FKBP1A,D,2,"(3r)-4-(P-Toluenesulfonyl)-1,4-Thiazane-3-Carboxylicacid-L-Leucine",NA
+DB04057,ATIC,D,8,"N-[4-([(2-Amino-4-oxo-1,4-dihydropyrido[3,2-d]pyrimidin-6-yl)methyl]{(2E)-3-[4-carbamoyl-1-(5-O-phosphono-beta-D-ribofuranosyl)-1H-imidazol-5-yl]-2-propenoyl}amino)benzoyl]-L-glutamic acid",NA
+DB04076,PNP,D,2,Hypoxanthine,NA
+DB04094,FKBP1A,D,2,4-hydroxybutan-2-one,NA
+DB04132,GLO1,D,8,S-Hexylglutathione,NA
+DB04194,LYZ,D,2,Triacetylchitotriose,NA
+DB04214,ACP1,D,2,4-Nitrophenyl Phosphate,NA
+DB04260,PNP,D,2,"9-(5,5-Difluoro-5-Phosphonopentyl)Guanine",NA
+DB04268,LYZ,D,2,Methylumbelliferyl chitotriose,NA
+DB04322,MTHFD1,D,8,LY249543,NA
+DB04326,ALDOA,D,2,Dihydroxyacetone phosphate,NA
+DB04356,HPRT1,D,8,9-Deazaguanine,NA
+DB04397,PGM1,D,2,Alpha-D-Glucose-1-Phosphate-6-Vanadate,NA
+DB04478,SORD,D,2,"Cp-166572, 2-Hydroxymethyl-4-(4-N,N-Dimethylaminosulfonyl-1-Piperazino)-Pyrimidine",NA
+DB04510,PGK1,D,2,3-phospho-D-glyceric acid,NA
+DB04733,ALDOA,D,2,"1,6-DI-O-PHOSPHONO-D-MANNITOL",NA
+DB04753,PNP,D,2,"9-DEAZAINOSINE-2',3'-O-ETHYLIDENEPHOSPHONATE",NA
+DB04754,PNP,D,2,"GUANOSINE-2',3'-O-ETHYLIDENEPHOSPHONATE",NA
+DB04757,PNP,D,2,"GUANOSINE-2',3'-O-METHYLIDENEPHOSPHONATE",NA
+DB05018,GLA,D,2,Migalastat,"Migalastat is an alpha-galactosidase A (alpha-Gal A) pharmacological chaperone indicated for the long-term treatment of adults and adolescents aged 16 years and older with a confirmed diagnosis of Fabry disease (alpha-galactosidase A deficiency) and an amenable galactosidase alpha gene (GLA) mutation/variant based upon in vitro assay data [FDA Label, F1107]. "
+DB05107,G6PD,D,2,16-Bromoepiandrosterone,"Investigated for use/treatment in cystic fibrosis, HIV infection, hepatitis (viral, B), and malaria."
+DB05177,LTA4H,D,2,DG051,Investigated for use/treatment in myocardial infarction.
+DB05200,GAA,D,8,AT2220,"Pompe disease, also known as glycogen storage disease type II or acid maltase deficiency, is a relatively rare neuromuscular and lysosomal storage disorder caused by inherited genetic mutations in a key enzyme called α-glucosidase (Gaa)."
+DB05327,AKR1B1,D,2,Ranirestat,Investigated for use/treatment in neuropathy (diabetic).
+DB05495,MMP9,D,2,PG-530742,Investigated for use/treatment in osteoarthritis.
+DB05533,AKR1B1,D,2,QR-333,Investigated for use/treatment in neuropathy (diabetic).
+DB05540,ADSS,D,8,Alanosine,Investigated for use/treatment in brain cancer and cancer/tumors (unspecified).
+DB05814,FKBP1A,D,2,GPI-1485,Investigated for use/treatment in erectile dysfunction and parkinson's disease.
+DB06103,IMPDH1,D,8,VX-148,"Investigated for use/treatment in autoimmune diseases, psoriasis and psoriatic disorders, and viral infection."
+DB06185,PNP,D,2,Forodesine,Investigated for use/treatment in lymphoma (non-hodgkin's) and leukemia (lymphoid).
+DB06828,LTA4H,D,2,5-[2-(1H-pyrrol-1-yl)ethoxy]-1H-indole,NA
+DB06912,LYZ,D,2,"UNDECA-3,7-DIENE-1,3,7,11-TETRACARBALDEHYDE",NA
+DB06917,LTA4H,D,2,(4-fluorophenyl)(pyridin-4-yl)methanone,NA
+DB06987,LTF,D,2,(R)-Atenolol,NA
+DB07028,AKR1B1,D,2,(2-{[(4-BROMO-2-FLUOROBENZYL)AMINO]CARBONYL}-5-CHLOROPHENOXY)ACETIC ACID,NA
+DB07030,AKR1B1,D,2,(5-CHLORO-2-{[(3-NITROBENZYL)AMINO]CARBONYL}PHENOXY)ACETIC ACID,NA
+DB07063,AKR1B1,D,2,Lidorestat,NA
+DB07093,AKR1B1,D,2,"{3-[(5-CHLORO-1,3-BENZOTHIAZOL-2-YL)METHYL]-2,4-DIOXO-3,4-DIHYDROPYRIMIDIN-1(2H)-YL}ACETIC ACID",NA
+DB07094,LTA4H,D,2,"1-(2,2'-bithiophen-5-yl)methanamine",NA
+DB07099,LTA4H,D,2,N-[4-(benzyloxy)phenyl]glycinamide,NA
+DB07102,LTA4H,D,2,(2S)-2-amino-5-oxo-5-[(4-phenylmethoxyphenyl)amino]pentanoic acid,NA
+DB07104,LTA4H,D,2,4-amino-N-[4-(benzyloxy)phenyl]butanamide,NA
+DB07117,MMP9,D,2,"5-(4-PHENOXYPHENYL)-5-(4-PYRIMIDIN-2-YLPIPERAZIN-1-YL)PYRIMIDINE-2,4,6(2H,3H)-TRIONE",NA
+DB07139,AKR1B1,D,2,3-[5-(3-nitrophenyl)thiophen-2-yl]propanoic acid,NA
+DB07187,AKR1B1,D,2,CP-744809,NA
+DB07196,LTA4H,D,2,N-methyl-1-(2-thiophen-2-ylphenyl)methanamine,NA
+DB07237,LTA4H,D,2,{4-[(2R)-pyrrolidin-2-ylmethoxy]phenyl}(4-thiophen-3-ylphenyl)methanone,NA
+DB07246,MMP9,D,2,"(2R)-2-AMINO-3,3,3-TRIFLUORO-N-HYDROXY-2-{[(4-PHENOXYPHENYL)SULFONYL]METHYL}PROPANAMIDE",NA
+DB07258,LTA4H,D,2,(R)-pyridin-4-yl[4-(2-pyrrolidin-1-ylethoxy)phenyl]methanol,NA
+DB07259,LTA4H,D,2,1-(4-thiophen-2-ylphenyl)methanamine,NA
+DB07260,LTA4H,D,2,N-benzyl-4-[(2R)-pyrrolidin-2-ylmethoxy]aniline,NA
+DB07285,MMP9,D,2,"(3R)-4,4-DIFLUORO-3-[(4-METHOXYPHENYL)SULFONYL]BUTANOIC ACID",NA
+DB07292,LTA4H,D,2,"4-(2-amino-1,3-thiazol-4-yl)phenol",NA
+DB07347,GAPDH,D,2,4-(2-Aminoethyl)Benzenesulfonyl Fluoride,NA
+DB07387,TPI1,D,2,3-(BUTYLSULPHONYL)-PROPANOIC ACID,NA
+DB07450,AKR1B1,D,2,(R)-minalrestat,NA
+DB07498,AKR1B1,D,2,"4-[3-(3-NITROPHENYL)-1,2,4-OXADIAZOL-5-YL]BUTANOIC ACID",NA
+DB07544,BCAT1,D,8,N'-(5-CHLOROBENZOFURAN-2-CARBONYL)-2-(TRIFLUOROMETHYL)BENZENESULFONOHYDRAZIDE,NA
+DB07628,PKM,D,2,"6-(2-fluorobenzyl)-2,4-dimethyl-4,6-dihydro-5H-thieno[2',3':4,5]pyrrolo[2,3-d]pyridazin-5-one",NA
+DB07692,PKM,D,2,"1-[(2,6-difluorophenyl)sulfonyl]-4-(2,3-dihydro-1,4-benzodioxin-6-ylsulfonyl)piperazine",NA
+DB07697,PKM,D,2,"1-(2,3-dihydro-1,4-benzodioxin-6-ylsulfonyl)-4-[(4-methoxyphenyl)sulfonyl]piperazine",NA
+DB07700,AKR1C3,D,2,"3-carboxamido-1,3,5(10)-estratrien-17(R)-spiro-2'(5',5'-dimethyl-6'oxo)tetrahydropyran",NA
+DB07999,AKR1B1,D,2,"{4-[(CARBOXYMETHOXY)CARBONYL]-3,3-DIOXIDO-1-OXONAPHTHO[1,2-D]ISOTHIAZOL-2(1H)-YL}ACETIC ACID",NA
+DB08000,AKR1B1,D,2,"2-(CARBOXYMETHYL)-1-OXO-1,2-DIHYDRONAPHTHO[1,2-D]ISOTHIAZOLE-4-CARBOXYLIC ACID 3,3-DIOXIDE",NA
+DB08040,LTA4H,D,2,Kelatorphan,NA
+DB08084,AKR1B1,D,2,IDD594,NA
+DB08098,AKR1B1,D,2,"{[5-(5-nitro-2-furyl)-1,3,4-oxadiazol-2-yl]thio}acetic acid",NA
+DB08179,GLO1,D,8,"methyl 4-(2,3-dihydroxy-5-methylphenoxy)-2-hydroxy-6-methylbenzoate",NA
+DB08240,ALDOA,D,2,N-(4-CHLOROPHENYL)-3-(PHOSPHONOOXY)NAPHTHALENE-2-CARBOXAMIDE,NA
+DB08449,AKR1B1,D,2,"2-(3-((4,5,7-trifluorobenzo[d]thiazol-2-yl)methyl)-1H-pyrrolo[2,3-b]pyridin-1-yl)acetic acid",NA
+DB08466,LTA4H,D,2,"5-[2-(4-hydroxyphenyl)ethyl]benzene-1,3-diol",NA
+DB08520,FKBP1A,D,2,"(21S)-1AZA-4,4-DIMETHYL-6,19-DIOXA-2,3,7,20-TETRAOXOBICYCLO[19.4.0] PENTACOSANE",NA
+DB14568,IDH1,D,2,Ivosidenib,Ivosidenib is approved for use in the treatment of relapsed or refractory AML with a susceptible IDH1 mutation as detected by an FDA-approved test [FDA Label].
+DB15694,CDA,D,2,Cedazuridine,"Cedazuridine, in combination with decitabine, is indicated for the treatment of myelodysplastic syndromes (MDS), including MDS with refractory anemia, MDS with refractory anemia and ringed sideroblasts, MDS with refractory anemia and excess blasts, MDS scoring intermediate-1, intermediate-2, or high-risk on the International Prognostic Scoring System (IPSS), and chronic myelomonocytic leukemia (CMML).[L14897]"
